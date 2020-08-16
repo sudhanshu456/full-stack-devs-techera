@@ -33,7 +33,7 @@ Resources
 - [Markdown Cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 ## Crazy Stuff
--[Create own Url Shortner](https://www.youtube.com/watch?v=gq5yubc1u18)
+- [Create own Url Shortner](https://www.youtube.com/watch?v=gq5yubc1u18)
 
 ## VScode stuff
 
