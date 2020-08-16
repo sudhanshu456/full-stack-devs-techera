@@ -15,3 +15,8 @@ Resources
 ## Sessions Links
 
 - [Session 1](https://youtu.be/dO62LhJXD0Q)
+
+
+## Any Query
+ - [Whatsapp Group](https://bit.ly/techerawhatsapp3)
+ - [Discord Group](https://bit.ly/techeradiscordserver)
