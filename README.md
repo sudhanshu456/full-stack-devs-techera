@@ -16,8 +16,9 @@ Resources
 ## Frontend Design Ideas
 - [Behance](https://www.behance.net/)
 - [Dribble](https://dribbble.com/)
-## Sessions Links
 
+
+## Sessions Links
 - [Session 1](https://youtu.be/dO62LhJXD0Q)
 
 
