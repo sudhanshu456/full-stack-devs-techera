@@ -17,6 +17,11 @@ Resources
 - [Session 1](https://youtu.be/dO62LhJXD0Q)
 
 
+## Code From Praveen Repo
+- [How to Build NodeJS API](https://github.com/praveenscience/NodeJS-API)
+
 ## Any Query
  - [Whatsapp Group](https://bit.ly/techerawhatsapp3)
  - [Discord Group](https://bit.ly/techeradiscordserver)
+
+
