@@ -24,4 +24,5 @@ Resources
  - [Whatsapp Group](https://bit.ly/techerawhatsapp3)
  - [Discord Group](https://bit.ly/techeradiscordserver)
 
-
+## Markdown Syntanx Guide
+- [Markdown Cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
