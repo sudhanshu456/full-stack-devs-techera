@@ -1,5 +1,5 @@
 # Full Stack Development Techera
-Resources
+Resources Get you started!
 
 [How to setup your code environment](https://blog.praveen.science/my-personal-development-environment/)
 
