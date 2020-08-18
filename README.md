@@ -37,6 +37,10 @@ Resources Get you started!
 
 ## VScode stuff
 
+### VS code Shortcuts
+
+[For windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+
 ### Font
 
 * [Anonymous Pro](https://www.marksimonson.com/fonts/view/anonymous-pro)
