@@ -17,6 +17,9 @@ Resources Get you started!
 - [Behance](https://www.behance.net/)
 - [Dribble](https://dribbble.com/)
 
+## Design Resouces for Developers
+
+-[design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers/blob/master/readme.md)
 
 ## Sessions Links
 - [Session 1](https://youtu.be/dO62LhJXD0Q)
