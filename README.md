@@ -20,9 +20,22 @@ Resources Get you started!
 
 -[design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers/blob/master/readme.md)
 
-## Sessions Links
+## Sessions 1 Links
 - [Session 1](https://youtu.be/dO62LhJXD0Q)
 
+## Session 2 Links
+ 
+- [GITHUB REPO PRAVEEN](https://github.com/praveenscience/TechEra-FullStack)
+- [GIT shortcuts](https://blog.praveen.science/git-shortcuts/)
+- [Emmit Cheat Sheet](https://docs.emmet.io/cheat-sheet/)
+- [http static server](https://gist.github.com/willurd/5720255)
+- [MDN DOCS](https://developer.mozilla.org/en-US/)
+- [Web Platform docs](https://webplatform.github.io/docs/)
+- [List reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/li )
+- [This page lists all the html elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+- [Youtube Playlist](https://www.youtube.com/playlist?list=PLO_Y0rsm7b3bOGxuK932gbKKQ_azizqnF)
+- [Praveen Linkedin](https://www.linkedin.com/in/praveentech/)
+- [Sudhanshu Linkedin](https://www.linkedin.com/in/sudhanshu212/)
 
 ## Code From Praveen Repo
 - [How to Build NodeJS API](https://github.com/praveenscience/NodeJS-API)
