@@ -6,7 +6,6 @@ Resources Get you started!
 ## HTML & CSS
  - [JSBin](http://jsbin.com/)
  - [Emmet — the essential toolkit for web-developers](https://emmet.io/)
- - [Free Resource Learn HTML & CSS Basics](https://www.w3schools.com/html/)
  - [Learn CSS Tricks](https://css-tricks.com/)
  
 ## ReactJS
