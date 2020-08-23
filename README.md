@@ -24,7 +24,8 @@ Resources Get you started!
 - [Session 1](https://youtu.be/dO62LhJXD0Q)
 
 ## Session 2 Links
- 
+
+- [Add your project idea in our Todo List, Fill out the form](https://airtable.com/shrCtZ1ByDtHJsRn0)
 - [GITHUB REPO PRAVEEN](https://github.com/praveenscience/TechEra-FullStack)
 - [GIT shortcuts](https://blog.praveen.science/git-shortcuts/)
 - [Emmit Cheat Sheet](https://docs.emmet.io/cheat-sheet/)
