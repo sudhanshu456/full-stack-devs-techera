@@ -35,6 +35,7 @@ Resources Get you started!
 - [List reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/li )
 - [This page lists all the html elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 - [Youtube Playlist](https://www.youtube.com/playlist?list=PLO_Y0rsm7b3bOGxuK932gbKKQ_azizqnF)
+- [Typora](https://typora.io/)
 - [Praveen Linkedin](https://www.linkedin.com/in/praveentech/)
 - [Sudhanshu Linkedin](https://www.linkedin.com/in/sudhanshu212/)
 
