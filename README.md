@@ -1,4 +1,4 @@
-# Full Stack Development Techera
+# Full Stack Development Techera <img src="https://i.imgur.com/oy7aD6T.jpg" width="100px" height="100px">
 Resources Get you started!
 
 [How to setup your code environment](https://blog.praveen.science/my-personal-development-environment/)
@@ -28,7 +28,7 @@ Resources Get you started!
 - [Add your project idea in our Todo List, Fill out the form](https://airtable.com/shrCtZ1ByDtHJsRn0)
 - [GITHUB REPO PRAVEEN](https://github.com/praveenscience/TechEra-FullStack)
 - [GIT shortcuts](https://blog.praveen.science/git-shortcuts/)
-- [Emmit Cheat Sheet](https://docs.emmet.io/cheat-sheet/)
+- [Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/)
 - [http static server](https://gist.github.com/willurd/5720255)
 - [MDN DOCS](https://developer.mozilla.org/en-US/)
 - [Web Platform docs](https://webplatform.github.io/docs/)
@@ -36,8 +36,8 @@ Resources Get you started!
 - [This page lists all the html elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 - [Youtube Playlist](https://www.youtube.com/playlist?list=PLO_Y0rsm7b3bOGxuK932gbKKQ_azizqnF)
 - [Typora](https://typora.io/)
-- [Praveen Linkedin](https://www.linkedin.com/in/praveentech/)
-- [Sudhanshu Linkedin](https://www.linkedin.com/in/sudhanshu212/)
+- [Praveen LinkedIn](https://www.linkedin.com/in/praveentech/)
+- [Sudhanshu LinkedIn](https://www.linkedin.com/in/sudhanshu212/)
 
 ## Code From Praveen Repo
 - [How to Build NodeJS API](https://github.com/praveenscience/NodeJS-API)
@@ -50,7 +50,7 @@ Resources Get you started!
 - [Markdown Cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 ## Crazy Stuff
-- [Create own Url Shortner](https://www.youtube.com/watch?v=gq5yubc1u18)
+- [Create own URL Shortner](https://www.youtube.com/watch?v=gq5yubc1u18)
 
 ## VScode stuff
 
